@@ -1,3 +1,6 @@
+This project was co-operate with dss-analysis, the NodeJS backend here "https://github.com/joker10130-dev/dss-analysis"
+The backend needed to install and run first before this frontend project.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
